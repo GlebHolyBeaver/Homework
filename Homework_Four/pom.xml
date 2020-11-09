@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Homework_Two</artifactId>
+    <artifactId>Homework_Four</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven class="compiler source">1.8</maven>
-        <maven class="compiler target">1.8</maven>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+
 
 </project>
